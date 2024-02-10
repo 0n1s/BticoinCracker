@@ -15,7 +15,7 @@ This Python script generates Bitcoin (BTC) addresses from private keys and check
 ## How can this help me?
 - If you are lucky and actually find any matching address, import the private keys to any wallet and Congratulations, you have made it. Send me a coffee. 
 
-- Contact me at t.me/team0n1s for any help
+- Contact me at https://t.me/team0n1s for any help
 
 
 ## Prerequisites
