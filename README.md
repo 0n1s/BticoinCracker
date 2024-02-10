@@ -27,14 +27,16 @@ This Python script generates Bitcoin (BTC) addresses from private keys and check
 
 1. Clone the repository or download the script.
 2. Install the required dependencies listed in `requirements.txt`.
-3. Run the script using Python:
+3. Download btc addresses here.
+    https://drive.google.com/file/d/12yqg42kiOl9KBZP5YhPCI9oda70SUE6E/view?usp=drive_link
+4. Run the script using Python:
 
     ```bash
-    python btc_address_generator.py
+    python btc_cracker.py
     ```
 
-4. Follow the on-screen instructions.
-5. Press `Ctrl + C` to exit the script.
+5. Follow the on-screen instructions.
+6. Press `Ctrl + C` to exit the script.
 
 ## Note
 
