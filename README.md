@@ -1,4 +1,6 @@
-# BTC Cracker. Generate random private keys and compare them with known addresses with balance
+# BTC Cracker. 
+
+Generate random private keys and compare them with known addresses with balance
 
 This Python script generates Bitcoin (BTC) addresses from private keys and checks them against a CSV file of BTC addresses to find intersections. It utilizes multiprocessing for faster address generation.
 
@@ -13,7 +15,7 @@ This Python script generates Bitcoin (BTC) addresses from private keys and check
 ## How can this help me?
 - If you are lucky and actually find any matching address, import the private keys to any wallet and Congratulations, you have made it. Send me a coffee. 
 
--Contact me at t.me/team0n1s for any help
+- Contact me at t.me/team0n1s for any help
 
 
 ## Prerequisites
