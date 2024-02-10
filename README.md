@@ -25,6 +25,10 @@ This Python script generates Bitcoin (BTC) addresses from private keys and check
 
 ## Usage
 
+Install python 
+
+
+
 1. Clone the repository or download the script.
 2. Install the required dependencies listed in `requirements.txt`.
 3. Download btc addresses here.
@@ -38,12 +42,13 @@ This Python script generates Bitcoin (BTC) addresses from private keys and check
 5. Follow the on-screen instructions.
 6. Press `Ctrl + C` to exit the script.
 
+
 ## Note
 
 - Ensure you have a CSV file containing BTC addresses in the specified format.
 - Make sure you have proper permissions to write files to the directory.
 
-## Probability of Finding a Matching Address
+## Facts
 
 The probability of finding a matching BTC address depends on various factors such as the number of addresses in the CSV file, the range of private keys generated, and the randomness of private key generation. Due to the sheer size of the BTC address space, the likelihood of finding a matching address is generally low, but with enough computational resources and time, it's possible to discover matches.
 
