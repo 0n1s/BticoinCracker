@@ -46,7 +46,7 @@ def work(results):
     if intersection_dict:
 
         file_name = random.randint(0, 1000000000)
-        file_name = f"lucky/intersection_{file_name}.csv"
+        file_name = f"data/intersection_{file_name}.csv"
 
         print("Lucky you! Found some addresses! Writing to file...")
         
